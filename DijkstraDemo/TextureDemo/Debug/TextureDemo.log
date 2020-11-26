@@ -1,0 +1,105 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (TextureDemo.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  PlayerGameObject.cpp
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\ProjectileObject.h(18,23): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\PlayerGameObject.h(11,1): warning C4005: 'BODY_TEX': macro redefinition
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\Boss.h(8): message : see previous definition of 'BODY_TEX'
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\PlayerGameObject.cpp(28,19): warning C4244: '=': conversion from 'double' to 'GLuint', possible loss of data
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\PlayerGameObject.cpp(103,34): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\PlayerGameObject.cpp(110,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\PlayerGameObject.cpp(111,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\PlayerGameObject.cpp(123,26): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\PlayerGameObject.cpp(140,24): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\PlayerGameObject.cpp(149,15): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\PlayerGameObject.cpp(150,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\PlayerGameObject.cpp(151,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\PlayerGameObject.cpp(152,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\PlayerGameObject.cpp(153,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\PlayerGameObject.cpp(156,29): warning C4018: '>': signed/unsigned mismatch
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\PlayerGameObject.cpp(156,75): warning C4018: '>': signed/unsigned mismatch
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\PlayerGameObject.cpp(160,50): warning C4018: '>': signed/unsigned mismatch
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\PlayerGameObject.cpp(160,112): warning C4018: '>': signed/unsigned mismatch
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\PlayerGameObject.cpp(186,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\PlayerGameObject.cpp(210,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\PlayerGameObject.cpp(232,30): warning C4244: '-=': conversion from 'double' to 'GLuint', possible loss of data
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\PlayerGameObject.cpp(264,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\PlayerGameObject.cpp(269,106): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\PlayerGameObject.cpp(287,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\PlayerGameObject.cpp(292,107): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\PlayerGameObject.cpp(304,16): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\PlayerGameObject.cpp(305,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\PlayerGameObject.cpp(306,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\PlayerGameObject.cpp(308,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\PlayerGameObject.cpp(308,45): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\PlayerGameObject.cpp(415,15): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\PlayerGameObject.cpp(420,81): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\PlayerGameObject.cpp(421,86): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\PlayerGameObject.cpp(425,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\PlayerGameObject.cpp(426,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\PlayerGameObject.cpp(427,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\PlayerGameObject.cpp(440,66): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\PlayerGameObject.cpp(441,67): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\PlayerGameObject.cpp(469,46): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\PlayerGameObject.cpp(470,46): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\PlayerGameObject.cpp(677,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\PlayerGameObject.cpp(678,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\PlayerGameObject.cpp(691,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\PlayerGameObject.cpp(692,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\TextureDemo\PlayerGameObject.cpp(697,20): warning C4018: '<': signed/unsigned mismatch
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  SOIL.lib(SOIL.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Finished generating code
+LINK : warning LNK4286: symbol '___glewGetUniformLocation' defined in 'glew32s.lib(glew.obj)' is imported by 'Graph.obj'
+LINK : warning LNK4286: symbol '___glewGetUniformLocation' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '___glewBindBuffer' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '___glewBufferData' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '___glewGenBuffers' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '___glewAttachShader' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '___glewCompileShader' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '___glewCreateProgram' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '___glewCreateShader' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '___glewDeleteProgram' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '___glewDeleteShader' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '___glewEnableVertexAttribArray' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '___glewGetAttribLocation' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '___glewGetProgramiv' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '___glewGetShaderInfoLog' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '___glewGetShaderiv' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '___glewLinkProgram' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '___glewShaderSource' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '___glewUniform1f' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '___glewUniform1i' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '___glewUniform2f' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '___glewUniform3f' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '___glewUniform4f' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '___glewUniformMatrix4fv' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '___glewUseProgram' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '___glewVertexAttribPointer' defined in 'glew32s.lib(glew.obj)' is imported by 'Shader.obj'
+LINK : warning LNK4286: symbol '_glewInit@0' defined in 'glew32s.lib(glew.obj)' is imported by 'Window.obj'
+LINK : warning LNK4286: symbol '_glewGetErrorString@4' defined in 'glew32s.lib(glew.obj)' is imported by 'Window.obj'
+LINK : warning LNK4286: symbol '_glewExperimental' defined in 'glew32s.lib(glew.obj)' is imported by 'Window.obj'
+SOIL.lib(SOIL.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(SOIL.obj)' or at 'C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\Debug\SOIL.pdb'; linking object as if no debug info
+SOIL.lib(image_helper.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(image_helper.obj)' or at 'C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\Debug\SOIL.pdb'; linking object as if no debug info
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(stb_image_aug.obj)' or at 'C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\Debug\SOIL.pdb'; linking object as if no debug info
+SOIL.lib(image_DXT.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(image_DXT.obj)' or at 'C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\Debug\SOIL.pdb'; linking object as if no debug info
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'glew_static.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\Debug\glew_static.pdb'; linking object as if no debug info
+  TextureDemo.vcxproj -> C:\Users\jdr_too\Documents\GitHub\COMP-2501-Term-Project\DijkstraDemo\Debug\DijkstraDemo.exe

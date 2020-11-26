@@ -1,0 +1,64 @@
+# Changelog
+All notable changes to this project will be documented here
+
+## [0.0.0] - 2020-02-14
+### Added
+- Created project off of the given DijkstraDemo
+
+## [0.0.1] - 2020-02-18
+### Added
+- Player class that can perform basic movement
+### Removed
+- DijkstraDemo's demo functionality, keeping Graph, Node, and Edge class
+### Changed
+- Restructured game states and texture globals
+
+## [0.0.2] - 2020-02-20
+### Added
+- Player class that can perform basic movement
+- Game States
+- More detailed texture globals (instead of simply tex)
+- Level Selection screen
+### Removed
+- DijkstraDemo's demo functionality, keeping Graph, Node, and Edge classes
+
+## [0.0.3] - 2020-02-21
+### Added
+- Created a function FileUtil.cpp to parse csv files into a 2d array of ints
+- Added collision detection between player and wall tiles.
+  Larger maps lag the game more
+### Removed
+### Changed
+- Configured Graph constructor to use csv maps to create graphs using walls
+
+## [0.0.5] - 2020-02-29
+### Changed
+- Allowed for separate tile types to be rendered using different images
+- Changed collision detection to be relative to the player
+
+## [0.0.6] - 2020-03-01
+### Added
+- EnemyGameObject class which has two types Turret or Moving enemy
+- Allowed Turret enemies to be spawned using the csv map, being
+  mounted to an adjacent wall upon loading the map.
+
+## [0.0.7] - 2020-03-02
+### Added
+- Drilling Mechanic. Press E when nearby a digable tile to drill through it
+- Player Drill that faces a digable tile when its nearby.
+
+## [0.0.8] - 2020-03-03
+### Added
+- Boss mechanic. spawns at opposite side of the map and will path find towards the player
+- Player machine, can fire bullets when pressing the LMB.
+
+## [0.0.10] - 2020-03-04
+### Added
+- Grenade Launcher weapon
+- Player can now switch weapons by pressing tab
+- Enemies and Boss have health bars, bullets hurt the enemies
+
+## [0.1.1] - 2020-03-07
+### Added 
+- Fixed turret aiming in four directions
+- Added a particle timer to the grenade
